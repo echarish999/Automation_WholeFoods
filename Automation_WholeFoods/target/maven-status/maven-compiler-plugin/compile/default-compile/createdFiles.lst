@@ -1,0 +1,8 @@
+com/wholefood/pageModules/Recipe.class
+com/wholefood/utilities/Utilities.class
+com/wholefood/pojo/MacroNutrients.class
+com/wholefood/pageModules/Ingredients.class
+com/wholefood/dataProvider/UrlDataProvider.class
+com/wholefood/service/Runner.class
+com/wholefood/pojo/WholeFoods.class
+com/wholefood/pojo/Item.class

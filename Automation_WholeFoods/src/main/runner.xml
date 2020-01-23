@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="end to end" verbose="1" >
+    <test name="wholeFoods" >
+        <classes>
+            <class name="com.wholefood.service.Runner" />
+            <class name="com.wholefood.dataProvider.UrlDataProvider" />
+        </classes>
+    </test>
+</suite>
